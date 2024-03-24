@@ -1,0 +1,6 @@
+[submodule "CommonLibSF"]
+	path = CommonLibSF
+	url = https://github.com/Starfield-Reverse-Engineering/CommonLibSF
+[submodule "spdlog"]
+	path = spdlog
+	url = https://github.com/gabime/spdlog
